@@ -1,0 +1,131 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+#puntaje
+{
+ 	align:center; 	
+	background: #1FCE6D;
+	color: black;
+	left: 400;
+	line-height: 50px;
+	border-radius: 50%;
+	text-align: center;
+	width: 300px;
+	height: 60px;
+	font-family: "Open Sans", sans-serif;
+	position: absolute;
+}
+.circulo
+{
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	/*border: 1px solid black;*/
+	border-radius: 50%;
+	position: absolute;
+	text-align: center;
+	line-height: 50px;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+	box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.55);
+}
+
+#start_f
+{
+    width: 150px;
+    padding: 10px 15px;
+    text-align: center;
+    font: bold 15px arial;
+    color: #000;
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    cursor: pointer;
+    background: #286090;
+	border: 3px ;
+	height: 40px;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 1.0em;
+	cursor: pointer;
+	transition: background 0.3s ease-in-out;
+}
+#start_m
+{
+    width: 150px;
+    padding: 10px 15px;
+    text-align: center;
+    font: bold 15px arial;
+    color: #000;
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    cursor: pointer;
+    background: #1FCE6D;	
+	border: 3px ;
+	height: 40px;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 1.0em;
+	cursor: pointer;
+	transition: background 0.3s ease-in-out;
+}
+#start_d
+{
+    width: 150px;
+    padding: 10px 15px;
+    text-align: center;
+    font: bold 15px arial;
+    color: #000;
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    cursor: pointer;
+    background: #d9534f;
+	border: 3px ;
+	height: 40px;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 1.0em;
+	cursor: pointer;
+	transition: background 0.3s ease-in-out;
+}
+#start_d :hover 
+{
+    width: 150px;
+    padding: 10px 15px;
+    text-align: center;
+    font: bold 15px arial;
+    color: #000;
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    cursor: pointer;
+    background: #f0ad4e;
+	border: 3px ;
+	height: 40px;
+	border-radius: 50px;
+	color: #fff;
+	font-size: 1.0em;
+	cursor: pointer;
+	transition: background 0.3s ease-in-out;
+}
+/*
+#contenedor
+{
+	width: 100%;
+	height: 500px;
+	background-color: red;
+}
+*/

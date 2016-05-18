@@ -1,0 +1,14 @@
+{
+  "short_name": "House",
+  "name": "Luis Sanchez",  
+  "icons": [
+  				{
+  					"src": "img/icono_casa.png",
+  					"sizes": "128x128",
+  					"type": "image/png"
+  				}
+  		   ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}
